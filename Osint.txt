@@ -8,3 +8,4 @@ https://haveibeenpwned.com
 https://dehashed.com/
 https://www.twilio.com
 https://pastebin.com/
+https://osintframework.com/
