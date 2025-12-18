@@ -15,12 +15,13 @@ This project collects and organizes various Open Source Intelligence (OSINT) too
 
 ## Directory Structure
 
-- [`Osint.txt`](https://github.com/Pushpenderrathore/OSINT/blob/main/Osint.txt): A text list or guide of OSINT resources and methodologies.
+- [`Osint.json`](https://github.com/Pushpenderrathore/OSINT/blob/main/Osint.txt): A text list or guide of OSINT resources and methodologies.
 - [`Osintgram/`](https://github.com/Pushpenderrathore/OSINT/tree/main/Osintgram): Instagram OSINT automation tool.
 - [`blackbird/`](https://github.com/Pushpenderrathore/OSINT/tree/main/blackbird): Username and social media investigation.
 - [`intelx.py/`](https://github.com/Pushpenderrathore/OSINT/tree/main/intelx.py): IntelX search wrapper or scripts for breach data analysis.
 - [`phoneinfoga/`](https://github.com/Pushpenderrathore/OSINT/tree/main/phoneinfoga): Phone number investigation tool.
 - [`sherlock/`](https://github.com/Pushpenderrathore/OSINT/tree/main/sherlock): Username search across social networks.
+- [`exiftool/`](https://github.com/Pushpenderrathore/OSINT/tree/main/exiftool): Image Meta data scrapper Information Gathering tool.
 
 ## Getting Started
 
@@ -54,7 +55,7 @@ Each sub-tool comes with its own documentation and usage guides within its folde
 
 - Running Python scripts for searches and investigations.
 - Executing shell commands for relevant tools.
-- Reviewing `Osint.txt` for methodology guidance and recommended workflows.
+- Reviewing `Osint.json` for methodology guidance and recommended workflows.
 
 Refer to each tool's documentation or `README.md` (if provided) within its respective directory for detailed instructions and examples.
 
@@ -68,7 +69,7 @@ Contributions are welcome! If you have an OSINT tool, script, or methodology to 
 
 ## License
 
-No license has yet been provided. Please contact the repository owner for usage and redistribution terms.
+MIT license has provided. Please Use with Ethics & Local Laws (Permissions) with redistribution terms.
 
 ## Author
 
