@@ -10,4 +10,5 @@ https://www.twilio.com
 https://pastebin.com/
 https://osintframework.com/
 https://wigle.net/
-
+https://www.virustotal.com
+https://bazaar.abuse.ch/
