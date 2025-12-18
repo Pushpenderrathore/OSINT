@@ -1,0 +1,79 @@
+{
+  "osint_resources": [
+    {
+      "name": "X-Ray Contact",
+      "url": "https://x-ray.contact/",
+      "purpose": "Email address investigation, domain intelligence, and breach-related OSINT"
+    },
+    {
+      "name": "Social Catfish",
+      "url": "https://socialcatfish.com/",
+      "purpose": "People search, identity verification, username and image OSINT"
+    },
+    {
+      "name": "IRBIS",
+      "url": "https://irbis.espysys.com/",
+      "purpose": "Threat intelligence and cyber reconnaissance platform"
+    },
+    {
+      "name": "Shodan",
+      "url": "https://shodan.io/",
+      "purpose": "Search engine for internet-connected devices, servers, and IoT exposure"
+    },
+    {
+      "name": "FOFA",
+      "url": "https://en.fofa.info/",
+      "purpose": "Global asset discovery, attack surface mapping, and reconnaissance"
+    },
+    {
+      "name": "Censys",
+      "url": "https://search.censys.io/",
+      "purpose": "Internet-wide scanning for hosts, certificates, and infrastructure intelligence"
+    },
+    {
+      "name": "Have I Been Pwned",
+      "url": "https://haveibeenpwned.com",
+      "purpose": "Check if email addresses or accounts appear in known data breaches"
+    },
+    {
+      "name": "DeHashed",
+      "url": "https://dehashed.com/",
+      "purpose": "Search engine for leaked credentials, breached databases, and OSINT research"
+    },
+    {
+      "name": "Twilio",
+      "url": "https://www.twilio.com",
+      "purpose": "Phone number intelligence, SMS, and communications-related OSINT context"
+    },
+    {
+      "name": "Pastebin",
+      "url": "https://pastebin.com/",
+      "purpose": "Monitor leaked text, credentials, code snippets, and threat actor dumps"
+    },
+    {
+      "name": "OSINT Framework",
+      "url": "https://osintframework.com/",
+      "purpose": "Structured collection of OSINT tools categorized by investigation type"
+    },
+    {
+      "name": "WiGLE",
+      "url": "https://wigle.net/",
+      "purpose": "Wireless network mapping, SSID and BSSID geolocation intelligence"
+    },
+    {
+      "name": "VirusTotal",
+      "url": "https://www.virustotal.com",
+      "purpose": "Malware, file, URL, and hash analysis using multiple antivirus engines"
+    },
+    {
+      "name": "Malware Bazaar",
+      "url": "https://bazaar.abuse.ch/",
+      "purpose": "Malware sample repository for threat research and incident response"
+    },
+    {
+      "name": "Zero-Day Database",
+      "url": "https://www.zero-day.cz/database/",
+      "purpose": "Vulnerability and exploit information database for security research"
+    }
+  ]
+}
