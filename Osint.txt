@@ -12,3 +12,4 @@ https://osintframework.com/
 https://wigle.net/
 https://www.virustotal.com
 https://bazaar.abuse.ch/
+https://www.zero-day.cz/database/
